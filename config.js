@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://terrydjo.netlify.com',
+  url: 'https://terryds.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Terry Djony',
+  title: 'Terry Djony.',
   subtitle: 'Not just another a blog.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -27,17 +27,17 @@ module.exports = {
   author: {
     name: 'Terry Djony',
     photo: '/photo.jpg',
-    bio: 'Founder of Chatbiz.id, Engineering Physics ITB Class 2020.',
+    bio: 'Automation Enthusiast. Founder of Chatbiz.id, Engineering Physics ITB',
     contacts: {
       email: '',
       facebook: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'https://github.com/terryds',
       rss: '',
       vkontakte: '',
       linkedin: '#',
-      instagram: '#',
+      instagram: 'https://instagram.com/terrydjony',
       line: '',
       gitlab: '',
       weibo: ''
